@@ -21,7 +21,9 @@ Here are things I'm getting comfortable with.
 
 Things I'd like to learn.
 
-* 🦀
+* 🐈 NestJS
+* 🌠 Fastify
+* 🦀 Rust
 
 ## 📫 Get in touch
 - <a href="https://github.com/adecess"><img src="https://img.shields.io/github/followers/adecess.svg?label=GitHub&style=social" alt="GitHub"></a>
