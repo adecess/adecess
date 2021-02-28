@@ -16,13 +16,12 @@ Here are a few things I like to work with.
 
 Here are things I'm getting comfortable with.
 
+* 🚇 GraphQL | TypeGraphQL
+* ☁ AWS EC2
 * 🧪 Jest | React Testing | Cypress
-* 🚇 GraphQL
 
 Things I'd like to learn.
 
-* 🐈 NestJS
-* 🌠 Fastify
 * 🦀 Rust
 
 ## 📫 Get in touch
