@@ -25,8 +25,6 @@ Things I'd like to learn.
 * 🦀 Rust
 
 ## 📫 Get in touch
-- <a href="https://github.com/adecess"><img src="https://img.shields.io/github/followers/adecess.svg?label=GitHub&style=social" alt="GitHub"></a>
-- <a href="https://twitter.com/adecess"><img src="https://img.shields.io/twitter/follow/adecess?label=Twitter&style=social" alt="Twitter"></a>
 - <a href="https://www.linkedin.com/in/saliniere"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 
 
