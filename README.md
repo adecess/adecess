@@ -26,6 +26,3 @@ Things I'd like to learn.
 
 ## 📫 Get in touch
 - <a href="https://www.linkedin.com/in/saliniere"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
-
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=adecess/adecess)
