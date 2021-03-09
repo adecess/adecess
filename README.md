@@ -14,11 +14,11 @@ Here are a few things I like to work with.
 * ☁ Heroku | AWS S3
 * 📟 Google Home
 
-Here are things I'm getting comfortable with.
+Here are things I'm getting better at.
 
-* 🚇 GraphQL | TypeGraphQL
-* ☁ AWS EC2
-* 🧪 Jest | React Testing | Cypress
+* 🚇 GraphQL (Apollo GraphQL, TypeGraphQL)
+* ☁ AWS
+* 🧪 Jest | Cypress | React Testing
 
 Things I'd like to learn.
 
