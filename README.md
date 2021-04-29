@@ -7,10 +7,11 @@ I am a JS/TS Developer. I am passionate about technology and love to learn new t
 Here are a few things I like to work with.
 
 * 🗣 JavaScript | TypeScript
-* 🖇️ Node.js (Express) | React | Jovo
+* 🖇️ Node.js (NestJS, Express) | React | Jovo
 * 🚇 GraphQL (Apollo GraphQL, TypeGraphQL)
 * 🛢️ PostgreSQL (TypeORM) | MongoDB | DynamoDB
 * :octocat: Git | Github
+* 🐳 Docker
 * ☁ AWS | Heroku
 * 📟 Google Home
 * 🧪 Jest
