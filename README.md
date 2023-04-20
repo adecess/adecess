@@ -1,19 +1,18 @@
-### Hi there 👋 I am Axel Salinière
+### Hi there 👋 I am Axel
 
-I am a JS/TS Developer. I am passionate about technology and love to learn new things.
+I am a Developer. I am passionate about useful technology and love to learn new fundamental comp sci knowledge.
 
 ## ⚡ Tech Stack
 
 Here are a few things I like to work with.
 
-* 🗣 JavaScript | TypeScript
-* 🖇️ Node.js (NestJS, Express) | React | Jovo
-* 🚇 GraphQL (Apollo GraphQL, TypeGraphQL)
-* 🛢️ PostgreSQL (TypeORM) | MongoDB | DynamoDB
-* :octocat: Git | Github
-* 🐳 Docker
-* ☁ AWS | Heroku
-* 📟 Google Home
+* 🗣 JavaScript | TypeScript | Python
+* 🖇️ Node.js (NestJS, Express) | Vue.js | FastAPI
+* 🚇 GraphQL (Apollo GraphQL)
+* 🛢️ PostgreSQL (TypeORM) | MongoDB
+* :octocat: Git | Github | Gitlab
+* 🐳 Docker | Kubernetes
+* ☁ Azure | Heroku
 * 🧪 Jest
 
 ## 📫 Get in touch
