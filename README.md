@@ -6,14 +6,13 @@ I am a Developer. I am passionate about useful technology and love to learn new 
 
 Here are a few things I like to work with.
 
-* 🗣 JavaScript | TypeScript | Python
-* 🖇️ Node.js (NestJS, Express) | Vue.js | FastAPI
+* 🗣 TypeScript | Python
+* 🖇️ Node.js (NestJS) | Vue.js | FastAPI
 * 🚇 GraphQL (Apollo GraphQL)
 * 🛢️ PostgreSQL (TypeORM) | MongoDB
-* :octocat: Git | Github | Gitlab
 * 🐳 Docker | Kubernetes
 * ☁ Azure | Heroku
-* 🧪 Jest
+* 🧪 Jest | Pytest
 
 ## 📫 Get in touch
 - <a href="https://www.linkedin.com/in/saliniere"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
