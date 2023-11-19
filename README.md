@@ -7,9 +7,9 @@ I am a Developer. I am passionate about useful technology and love to learn new 
 Here are a few things I like to work with.
 
 * 🗣 TypeScript | Python
-* 🖇️ Node.js (NestJS) | Vue.js | FastAPI
+* 🖇️ Node.js (NestJS) | FastAPI | Vue.js
 * 🚇 GraphQL (Apollo GraphQL)
-* 🛢️ PostgreSQL (TypeORM) | MongoDB
+* 🛢️ PostgreSQL (SQLAlechemy)
 * 🐳 Docker | Kubernetes
 * ☁ Azure | Heroku
 * 🧪 Jest | Pytest
