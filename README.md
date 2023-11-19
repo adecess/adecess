@@ -1,10 +1,8 @@
 ### Hi there 👋 I am Axel
 
-I am a Developer. I am passionate about useful technology and love to learn new fundamental comp sci knowledge.
+I am a Developer. I use Vue and NestJS at work but I have been spending most of my free time building with Python (especially FastAPI) lately.
 
 ## ⚡ Tech Stack
-
-Here are a few things I like to work with.
 
 * 🗣 TypeScript | Python
 * 🖇️ Node.js (NestJS) | FastAPI | Vue.js
