@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Axel
 
-I am a Developer. I use Vue and NestJS at work but I have been spending most of my free time building with Python (especially FastAPI) lately.
+I like to build apps, practice Leetcode problems and learn about Python peculiarities.
 
 ## ⚡ Tech Stack
 
