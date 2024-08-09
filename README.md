@@ -2,15 +2,7 @@
 
 I like to build apps, practice Leetcode problems and learn about Python peculiarities.
 
-## ⚡ Tech Stack
-
-* 🗣 TypeScript | Python
-* 🖇️ Node.js (NestJS) | FastAPI | Vue.js
-* 🚇 GraphQL (Apollo GraphQL)
-* 🛢️ PostgreSQL (SQLAlechemy)
-* 🐳 Docker | Kubernetes
-* ☁ Azure | Heroku
-* 🧪 Jest | Pytest
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adecess&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📫 Get in touch
 - <a href="https://www.linkedin.com/in/saliniere"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
