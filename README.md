@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Axel
 
-I like to build apps, practice Leetcode problems and learn about Python peculiarities.
+I like to build apps, solve Leetcode problems and learn about Python peculiarities.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adecess&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
